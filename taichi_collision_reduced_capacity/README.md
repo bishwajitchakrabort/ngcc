@@ -3,12 +3,7 @@
 
 ## Disclaimer
 
-The collision attack described in the accompanying paper was produced by
-the author. It was subsequently verified with the assistance of an AI system,
-and all verification code (the reimplementation of both WChain versions and
-their inverse permutations, the comparison with the reference implementation,
-the reduced-width attack, and the ideal-permutation experiment) was written by
-that AI system. The paper was itself drafted in its entirety by that AI system.
+The generic collision attack described in the accompanying paper was produced by the author. It was subsequently verified with the assistance of an AI system, and all attack code was written by that AI system. The paper was itself drafted in its entirety by that AI system.
 
 ## Attack
 
