@@ -3,7 +3,7 @@
 
 ## Disclaimer
 
-The second-preimage attack described in the accompanying paper was produced by
+The collision attack described in the accompanying paper was produced by
 the author. It was subsequently verified with the assistance of an AI system,
 and all verification code (the reimplementation of both WChain versions and
 their inverse permutations, the comparison with the reference implementation,
